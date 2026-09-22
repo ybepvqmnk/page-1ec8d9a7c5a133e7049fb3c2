@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "770be4b3ae2d8d49681bada5",
+  "owner": "ybepvqmnk",
+  "repo": "page-1ec8d9a7c5a133e7049fb3c2",
+  "title": "猪の",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1ec8d9a7c5a133e7049fb3c2",
+      "a": "猪の",
+      "b": "2027官方最新地址导航",
+      "entity": "猪の",
+      "brand": "猪の",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6b8ac3ff854a3ced3b55c4edcbff61144db6348348f2183385075dce6b268e40",
+      "content": {
+        "primary_entity": "猪の",
+        "keyword1": "猪の",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "开始配置猪の",
+          "AI_DESCRIPTION": "，猪の提供基础版、旗舰版和团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线，旗舰版与团队版还包含流媒体解锁和专线优化，适合个人、家庭及小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，适合日常使用。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，并支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "旗舰版和团队版提供流媒体解锁与专线优化，年付价格更划算。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选",
+          "AI_FEATURE_TITLE_2": "按团队规模选",
+          "AI_FEATURE_TITLE_3": "按线路需求选",
+          "AI_GUIDE_INTRO": "三步完成订阅配置：选套餐、看适配、导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "猪の提供多档海外加速订阅，覆盖基础浏览、流媒体解锁与专线游戏加速场景，可按设备数量和月流量需求选择基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "旗舰版含专线游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版、团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量和线路类型，确认是否满足流媒体或游戏需求。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，完成一次配置后即可多设备使用。",
+          "AI_STEP_TITLE_1": "选服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "猪の 订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "猪の套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看每月流量和同时在线设备数。轻度使用选基础版100GB、3台设备；日常多设备选旗舰版300GB、5台设备；高流量或多人使用选团队版1000GB、20台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付15元，年付150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。年付相当于多用约一个月，长期使用更合适。",
+          "AI_FAQ_QUESTION_3": "同一订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出数量可能导致连接受限，建议按实际设备数量选择对应档位。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在购买的套餐页面获取订阅信息，然后打开所用客户端，按客户端文档中的订阅导入说明粘贴或扫码添加，保存后选择节点连接即可。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，适合小型团队或家庭多设备共享，还支持企业定制路由与专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hsxzs.cn",
+    "host": "hsxzs.cn"
+  },
+  "file_hashes": {
+    "index.html": "50f6a2b63c751868d0e350f92505d51ca7382293e18d6e632a75f63060c16d4b",
+    "sitemap.xml": "3647fed7f966b57e7aef7ed63ec06f9529582d7971783d56a0866a1d62b3dcdf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6a243502768f2f6acf380d60839ba7946d758f77803e317b2418407c836f6e31",
+    "robots.txt": "6d558ce4d43a7e40564f75c139706dceeef5c33387a7fe72fe3a7d9ced6870d6",
+    "760ef0c7d491955e579e5b8a837a6e9d.txt": "632b5fe55ffeb1ac3369c1b973aaac1864c900c07c068adf3d7a4bcef23faddd"
+  },
+  "revision": "a5657376edbf93245933a20d601524f92cf45e1777db71f190fe55f91dcbf48f"
+}
